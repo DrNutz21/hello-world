@@ -6,7 +6,10 @@ To a different branch
 again
 one more time
 for the win
+<<<<<<< HEAD
 
+=======
+>>>>>>> a044544e20f93c8dca5c99a6f53881b5ce00798c
 
 
 
